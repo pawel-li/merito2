@@ -1,7 +1,8 @@
 # Aplikacja Webowa do Klasyfikacji ML
 
-> Projekt uczelniany — interaktywna aplikacja webowa do klasyfikacji opartej na regułach z asystentem AI w formie czatu.
+> Projekt - interaktywna aplikacja webowa do klasyfikacji opartej na regułach z asystentem AI w formie czatu.
 
+https://github.com/pawel-li/merito2
 ---
 
 ## Opis
