@@ -11,6 +11,8 @@ Aplikacja umożliwia użytkownikowi wgranie zbioru danych CSV, wytrenowanie klas
 
 ## Demo
 
+<!-- Replace this placeholder URL with your actual demo video URL -->
+<!-- To add a video: upload it in a GitHub issue/PR comment, then copy the URL here -->
 https://github.com/user-attachments/assets/2fdb0b3a-6c5d-4f6a-8e3e-1e1f6e3e4d2b
 
 ### Główne funkcjonalności
