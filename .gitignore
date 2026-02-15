@@ -1,0 +1,23 @@
+# Dependencies
+frontend/node_modules/
+frontend/.angular/
+
+# Python
+backend/__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Data / uploads
+db_data/
+uploads/
+backend/uploads/
+backend/data/
+
+# Large files
+data/demo.mp4
+
+# OS
+Thumbs.db
+.DS_Store
