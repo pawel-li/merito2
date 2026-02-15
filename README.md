@@ -163,9 +163,3 @@ Czat wykorzystuje **OpenRouter** (Google Gemini) z mechanizmem **wywoływania na
 ## Przykładowy zbiór danych
 
 Projekt zawiera plik `data/irys.csv` — klasyczny [zbiór danych Iris](https://pl.wikipedia.org/wiki/Irys_(zbi%C3%B3r_danych)) ze 150 próbkami, 4 cechami (`sepal.length`, `sepal.width`, `petal.length`, `petal.width`) i 3 klasami (`Setosa`, `Versicolor`, `Virginica`).
-
----
-
-## Autor
-
-Projekt uczelniany — Uniwersytet Merito.
