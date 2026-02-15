@@ -9,6 +9,12 @@ https://github.com/pawel-li/merito2
 
 Aplikacja umożliwia użytkownikowi wgranie zbioru danych CSV, wytrenowanie klasyfikatora opartego na drzewie decyzyjnym, przegląd wygenerowanych reguł klasyfikacji oraz interakcję z asystentem AI, który potrafi dodawać, usuwać i przeliczać reguły w czasie rzeczywistym. Wszystkie zmiany są natychmiastowo odzwierciedlane w tabeli reguł i macierzy pomyłek.
 
+## Demo
+
+<!-- Replace this placeholder URL with your actual demo video URL -->
+<!-- To add a video: upload it in a GitHub issue/PR comment, then copy the URL here -->
+https://github.com/user-attachments/assets/2fdb0b3a-6c5d-4f6a-8e3e-1e1f6e3e4d2b
+
 ### Główne funkcjonalności
 
 - **Wgrywanie CSV** — przeciągnij i upuść lub wybierz plik CSV, aby utworzyć nowy projekt
